@@ -1,5 +1,5 @@
 # PokeNatures_AndroidWear
-A simple Android Wear App displaying Pokemon natures's stats (My first Android Wear App).
+A simple Android Wear Hello World App displaying Pokemon natures's stats (My first Android Wear App).
 
 #Preview  
 
